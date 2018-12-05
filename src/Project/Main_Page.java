@@ -23,7 +23,7 @@ import org.jfree.data.general.DefaultPieDataset;
 
 /**
  *
- * @author Kevin
+ * @author Nate
  */
 public final class Main_Page extends javax.swing.JFrame implements Runnable {
 

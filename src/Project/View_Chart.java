@@ -23,7 +23,7 @@ import org.jfree.data.general.DefaultPieDataset;
 
 /**
  *
- * @author Kevin
+ * @author Nate
  */
 public final class View_Chart extends javax.swing.JDialog {
 

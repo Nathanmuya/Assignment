@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Kevin
+ * @author Nate
  */
 public class Add_User extends javax.swing.JDialog {
 

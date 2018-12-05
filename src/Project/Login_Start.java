@@ -14,7 +14,7 @@ package Project;
 
 /**
  *
- * @author Kevin
+ * @author Nate
  */
 import java.awt.*;
 import java.sql.*;

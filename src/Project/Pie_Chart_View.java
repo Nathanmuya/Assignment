@@ -11,7 +11,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Kings
+ * @author Nate
  */
 public class Pie_Chart_View extends javax.swing.JDialog {
 
